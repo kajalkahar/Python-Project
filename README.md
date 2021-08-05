@@ -1,1 +1,1 @@
-# _pycache__
+This is Student Managment System using CRUD opreation.
